@@ -1,0 +1,11 @@
+{
+  "name": "node-express-course",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/cartulang/node-express-course.git",
+  "author": "Carlo Tulang <cartulang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
